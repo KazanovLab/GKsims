@@ -5,7 +5,7 @@ CXX = g++
 SRC = $(wildcard src/*.cpp)
 
 # Output executable
-OUT = genasims
+OUT = gksims
 
 # Default rule: compile all .cpp files into an executable
 $(OUT): $(SRC)
