@@ -41,7 +41,7 @@ Inputs (full/absolute paths):
 Example
 
 ```
-genasims \
+gksims \
   -g   /humanGenome/hg19.fa \
   -a   /humanAnnotation/Homo_sapiens.GRCh37.87.chr.gff3 \
   -r   /RT/ESC_smooth_PC_corrected_average_10000_strand.txt \
@@ -65,7 +65,7 @@ percentage per mutagen: currently APOBEC (-a) and UV (-u) are supported (percent
 Example
 
 ```
-genasims \
+gksims \
   -i   /GKsims_indices/ \
   -s   /GKsims_system/ \
   -n 500000 -a 60 -u 40 \
