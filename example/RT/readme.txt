@@ -1,0 +1,1 @@
+This directory contains a file named ESC_smooth_PC_corrected_average_10000_strand.txt, which includes replication timing domains and replication strand information for the hg19 genome.
